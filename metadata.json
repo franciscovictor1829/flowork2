@@ -1,0 +1,5 @@
+{
+  "name": "Conecta - Gestão Operacional & Produtividade",
+  "description": "Plataforma corporativa de gestão de demandas, processos, SLA, ponto eletrônico e ranking de produtividade para PMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
